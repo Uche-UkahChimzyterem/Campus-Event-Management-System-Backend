@@ -202,7 +202,7 @@ This is the backend of a campus event management system built with Node.js and S
 #### Cancel RSVP
 - **Method**: `DELETE /api/events/rsvp/cancel/:eventId`
 - **Postman Screenshot**:
-  ![Cancel RSVP Postman](./Images/Event_Cancelled.png)
+  ![Cancel RSVP Postman](./Images/cancel.png)
 - **Response**:
   ```json
   {
