@@ -66,7 +66,7 @@ This is the backend of a campus event management system. It's built with Node.js
 }
   ```
 - Postman Screenshot:
-  ![Register User Postman]("./images/Register_User.png")
+  ![Register User Postman]("./Images/Register_User.png")
 - Response:
   ```json
   {
@@ -85,7 +85,7 @@ This is the backend of a campus event management system. It's built with Node.js
 
   ```
 - Postman Screenshot:
-  ![Login User Postman]("./images/Login_User.png")
+  ![Login User Postman]("./Images/Login_User.png")
 - Response:
   ```json
   {
@@ -106,7 +106,7 @@ This is the backend of a campus event management system. It's built with Node.js
   }
   ```
 - postman Screenshot:
-  ![Create Event Postman](./images/Create_Event.png)
+  ![Create Event Postman](./Images/Create_Event.png)
 - Response:
   ```json
   {
@@ -230,7 +230,7 @@ This is the backend of a campus event management system. It's built with Node.js
   }
   ```
 - Postman Screenshot:
-  ![RSVP to Event Postman](./images/RSVP_Event.png)
+  ![RSVP to Event Postman](./Images/RSVP_Event.png)
 - Respons:
   ```json
   {
@@ -241,7 +241,7 @@ This is the backend of a campus event management system. It's built with Node.js
 #### Get User's RSVP'd Events
 - Method: `GET /api/events/user/events/:userId`
 - Postman Screenshot:
-  ![Get User RSVP'd Events Postman](./images/User_Rsvp_Event.png)
+  ![Get User RSVP'd Events Postman](./Images/User_Rsvp_Event.png)
 - Response:
   ```json
   [
@@ -289,9 +289,6 @@ I use Supabase as the database. The connection settings like URL and API key are
 
 ## Contributing
 Anyone can help! Fork the repo, make changes, and submit a pull request with improvements or bug fixes.
-
-Uche-Ukah Chimzyterem Janet
- License
 
 
 ## Contact Information
